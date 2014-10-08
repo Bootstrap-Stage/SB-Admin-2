@@ -1,5 +1,6 @@
 sb-admin - Bootstrap Admin Template
 ========
+[Demo Here](http://www.bootstrapstage.com/demo/sb-admin/index.html)
 
 ![alt tag](http://i.imgur.com/n47Dibt.jpg?1)
 
