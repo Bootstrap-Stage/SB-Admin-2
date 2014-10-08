@@ -1,7 +1,7 @@
 sb-admin - Bootstrap Admin Template
 ========
 
-![alt tag]((http://i.imgur.com/n47Dibt.jpg?1)
+![alt tag](http://i.imgur.com/n47Dibt.jpg?1)
 
 
 SB Admin Theme Description
